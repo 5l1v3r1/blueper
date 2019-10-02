@@ -1,0 +1,12 @@
+v0.2
+- Ported from bash script to C.
+
+v0.3 
+- Fixed problem with Channel for targeting all devices in range.
+- Randomized number appended to remote filename.
+- I changed some of the flags.
+- Added "install" to make script
+
+v0.4
+- removed debug output
+- fixed "make clean"
